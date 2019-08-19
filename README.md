@@ -21,7 +21,7 @@
 [Hover.css - A collection of CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
 [Animate.css](https://daneden.github.io/animate.css/)
 [Font Awesome](https://fontawesome.com/)
-[学习CSS布局](http://zh.learnlayout.com/)
+[学习 CSS 布局](http://zh.learnlayout.com/)
 [Flexbox Cheatsheet](http://yoksel.github.io/flex-cheatsheet/)
 [CSS Grid Generator | LayoutIt!](https://grid.layoutit.com/)
 
