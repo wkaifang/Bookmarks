@@ -20,6 +20,7 @@
 * [GitHub Git 备忘单 - GitHub Cheatsheets](https://github.github.com/training-kit/downloads/zh_CN/github-git-cheat-sheet/)
 * [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
 * [Visualizing Git](http://git-school.github.io/visualizing-git/)
+* [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/index.zh.html)
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 
 ### CSS
@@ -64,6 +65,9 @@
 * [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 * [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
 * [数据结构和算法动态可视化](https://visualgo.net/zh)
+
+* [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
+* [build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
 
 * [Enable CORS](https://enable-cors.org/index.html)
 * [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
