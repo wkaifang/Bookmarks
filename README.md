@@ -5,14 +5,6 @@
 * [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)
 * [Oh My Zsh - a delightful & open source framework for Zsh](https://ohmyz.sh/)
 * [EditorConfig](https://editorconfig.org/)
-* [Node.js](https://nodejs.org/zh-cn/)
-* [nvm](https://github.com/nvm-sh/nvm)
-* [npm | build amazing things](https://www.npmjs.com/)
-* [webpack](https://webpack.js.org)
-* [Babel · The compiler for next generation JavaScript](https://babeljs.io/)
-* [ESLint - Pluggable JavaScript linter](https://eslint.org/)
-* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
-* [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
 
 ### Git
 
@@ -51,6 +43,15 @@
 * [Redux · A Predictable State Container for JS Apps](https://redux.js.org/)
 * [Redux 中文文档](http://cn.redux.js.org/)
 * [React Lifecycle Methods Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+* [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/)
+* [webpack](https://webpack.js.org)
+* [Babel · The compiler for next generation JavaScript](https://babeljs.io/)
+* [ESLint - Pluggable JavaScript linter](https://eslint.org/)
+* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+* [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+* [Node.js](https://nodejs.org/zh-cn/)
+* [nvm](https://github.com/nvm-sh/nvm)
+* [npm | build amazing things](https://www.npmjs.com/)
 * [前端工作面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/)
 
 ### 正则表达式
@@ -68,7 +69,7 @@
 
 * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 * [build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
-
+* [GraphQL | A query language for your API](https://graphql.org/)
 * [Enable CORS](https://enable-cors.org/index.html)
 * [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
@@ -78,3 +79,14 @@
 * [https://codesandbox.io](https://codesandbox.io/)
 * [https://revealjs.com/](https://revealjs.com/)
 * [https://slides.com/](https://slides.com/)
+
+### Python
+
+* [https://www.python.org/](https://www.python.org/)
+* [Simple Python Version Management](https://github.com/pyenv/pyenv)
+* [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
+* [Django REST framework](https://www.django-rest-framework.org/)
+
+### Go
+
+* [https://golang.org/](https://golang.org/)
