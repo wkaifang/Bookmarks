@@ -5,6 +5,10 @@
 * [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)
 * [Oh My Zsh - a delightful & open source framework for Zsh](https://ohmyz.sh/)
 * [EditorConfig](https://editorconfig.org/)
+* [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
+* [GraphQL | A query language for your API](https://graphql.org/)
+* [Enable CORS](https://enable-cors.org/index.html)
+* [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
 ### Git
 
@@ -67,11 +71,20 @@
 * [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
 * [数据结构和算法动态可视化](https://visualgo.net/zh)
 
-* [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
+### Python
+
+* [Python 官网](https://www.python.org/)
+* [Python 文档](https://docs.python.org/zh-cn/3/)
+* [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
+* [Django REST framework](https://www.django-rest-framework.org/)
+* [Simple Python Version Management](https://github.com/pyenv/pyenv)
+
+### Go
+
+* [Go 文档](https://golang.org/)
 * [build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
-* [GraphQL | A query language for your API](https://graphql.org/)
-* [Enable CORS](https://enable-cors.org/index.html)
-* [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
+
+### 工具
 
 * [cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!](https://cdnjs.com/)
 * [https://unpkg.com/](https://unpkg.com/)
@@ -79,14 +92,3 @@
 * [https://codesandbox.io](https://codesandbox.io/)
 * [https://revealjs.com/](https://revealjs.com/)
 * [https://slides.com/](https://slides.com/)
-
-### Python
-
-* [https://www.python.org/](https://www.python.org/)
-* [Simple Python Version Management](https://github.com/pyenv/pyenv)
-* [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
-* [Django REST framework](https://www.django-rest-framework.org/)
-
-### Go
-
-* [https://golang.org/](https://golang.org/)
