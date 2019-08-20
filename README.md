@@ -51,12 +51,6 @@
 * [webpack](https://webpack.js.org)
 * [Babel · The compiler for next generation JavaScript](https://babeljs.io/)
 * [ESLint - Pluggable JavaScript linter](https://eslint.org/)
-* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
-* [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
-* [Node.js](https://nodejs.org/zh-cn/)
-* [nvm](https://github.com/nvm-sh/nvm)
-* [npm | build amazing things](https://www.npmjs.com/)
-* [前端工作面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/)
 
 ### 正则表达式
 
@@ -70,6 +64,12 @@
 * [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 * [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
 * [数据结构和算法动态可视化](https://visualgo.net/zh)
+
+### Node
+
+* [Node.js](https://nodejs.org/zh-cn/)
+* [nvm](https://github.com/nvm-sh/nvm)
+* [npm | build amazing things](https://www.npmjs.com/)
 
 ### Python
 
@@ -86,6 +86,9 @@
 
 ### 工具
 
+* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+* [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+* [前端工作面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/)
 * [cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!](https://cdnjs.com/)
 * [https://unpkg.com/](https://unpkg.com/)
 * [https://codepen.io](https://codepen.io/)
