@@ -1,5 +1,6 @@
 # Bookmarks
 
+* [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 * [macOS Setup Guide](http://sourabhbajaj.com/mac-setup/)
 * [macOS 缺失的软件包的管理器 — Homebrew](https://brew.sh/index_zh-cn.html)
 * [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)
@@ -7,6 +8,7 @@
 * [Documentation for Visual Studio Code](https://code.visualstudio.com/docs)
 * [Visual Studio Code Keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 * [EditorConfig](https://editorconfig.org/)
+* [Emmet — the essential toolkit for web-developers](https://emmet.io/)
 * [GraphQL | A query language for your API](https://graphql.org/)
 * [HEAD - A free guide to <head> elements](https://htmlhead.dev/)
 * [Enable CORS](https://enable-cors.org/index.html)
@@ -18,7 +20,7 @@
 * [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
 * [Visualizing Git](http://git-school.github.io/visualizing-git/)
 * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/index.zh.html)
-* [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/)
+* [猴子都能懂的 GIT 入门](https://backlog.com/git-tutorial/cn/)
 * [GitHub Git 备忘单 - GitHub Cheatsheets](https://github.github.com/training-kit/downloads/zh_CN/github-git-cheat-sheet/)
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 
@@ -31,6 +33,7 @@
 * [学习 CSS 布局](http://zh.learnlayout.com/)
 * [Flexbox Cheatsheet](http://yoksel.github.io/flex-cheatsheet/)
 * [CSS Grid Generator | LayoutIt!](https://grid.layoutit.com/)
+* [https://www.sassmeister.com/](https://www.sassmeister.com/)
 
 ### JavaScript
 
@@ -38,7 +41,7 @@
 * [DevDocs API Documentation](https://devdocs.io/)
 * [https://zh.javascript.info/](https://zh.javascript.info/)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-* [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 * [ES6 Features](https://codetower.github.io/es6-features/)
 * [http://youmightnotneedjquery.com/](http://youmightnotneedjquery.com/)
 * [http://youmightnotneedjs.com/](http://youmightnotneedjs.com/)
@@ -80,7 +83,7 @@
 * [Learn Regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
 * [RegExr: Learn, Build, &amp; Test RegEx](https://regexr.com/)
 * [JavaScript Regular Expression Visualizer.](https://jex.im/regulex)
-* [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+* [正则表达式 30 分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 
 ### 数据结构和算法
 
@@ -148,5 +151,5 @@
 * [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [free-programming-books](https://ebookfoundation.github.io/free-programming-books/free-programming-books-zh.html)
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
-* [CodeWar代码战争 - 在游戏中学会编程](https://www.codewar.cn)
+* [CodeWar 代码战争 - 在游戏中学会编程](https://www.codewar.cn)
 * [前端工作面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/)
