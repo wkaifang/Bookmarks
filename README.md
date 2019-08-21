@@ -4,6 +4,8 @@
 * [macOS 缺失的软件包的管理器 — Homebrew](https://brew.sh/index_zh-cn.html)
 * [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)
 * [Oh My Zsh - a delightful & open source framework for Zsh](https://ohmyz.sh/)
+* [Documentation for Visual Studio Code](https://code.visualstudio.com/docs)
+* [Visual Studio Code Keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 * [EditorConfig](https://editorconfig.org/)
 * [GraphQL | A query language for your API](https://graphql.org/)
 * [HEAD - A free guide to <head> elements](https://htmlhead.dev/)
