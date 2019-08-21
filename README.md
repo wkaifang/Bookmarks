@@ -33,7 +33,7 @@
 ### JavaScript
 
 * [Web 开发技术 | MDN](https://developer.mozilla.org/zh-CN/docs/Web)
-* [https://devdocs.io/](https://devdocs.io/)
+* [DevDocs API Documentation](https://devdocs.io/)
 * [https://zh.javascript.info/](https://zh.javascript.info/)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [ECMAScript 6入门](http://es6.ruanyifeng.com/)
@@ -142,9 +142,9 @@
 * [https://codesandbox.io](https://codesandbox.io/)
 * [https://revealjs.com/](https://revealjs.com/)
 * [https://slides.com/](https://slides.com/)
-* [CodeWar代码战争 - 在游戏中学会编程](https://www.codewar.cn)
-* [前端工作面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/)
 * [https://github.com/mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 * [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [free-programming-books](https://ebookfoundation.github.io/free-programming-books/free-programming-books-zh.html)
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+* [CodeWar代码战争 - 在游戏中学会编程](https://www.codewar.cn)
+* [前端工作面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/)
