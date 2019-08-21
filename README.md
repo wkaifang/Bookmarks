@@ -5,8 +5,8 @@
 * [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)
 * [Oh My Zsh - a delightful & open source framework for Zsh](https://ohmyz.sh/)
 * [EditorConfig](https://editorconfig.org/)
-* [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 * [GraphQL | A query language for your API](https://graphql.org/)
+* [HEAD - A free guide to <head> elements](https://htmlhead.dev/)
 * [Enable CORS](https://enable-cors.org/index.html)
 * [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
@@ -28,7 +28,6 @@
 * [学习 CSS 布局](http://zh.learnlayout.com/)
 * [Flexbox Cheatsheet](http://yoksel.github.io/flex-cheatsheet/)
 * [CSS Grid Generator | LayoutIt!](https://grid.layoutit.com/)
-* [HEAD - A free guide to <head> elements](https://htmlhead.dev/)
 
 ### JavaScript
 
@@ -40,6 +39,21 @@
 * [http://youmightnotneedjs.com/](http://youmightnotneedjs.com/)
 * [https://www.html5rocks.com/zh/tutorials/](https://www.html5rocks.com/zh/tutorials/)
 * [Lodash](https://lodash.com/)
+* [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/)
+* [webpack](https://webpack.js.org)
+* [Babel · The compiler for next generation JavaScript](https://babeljs.io/)
+* [ESLint - Pluggable JavaScript linter](https://eslint.org/)
+
+### Vue
+
+* [Vue.js](https://cn.vuejs.org/)
+* [https://router.vuejs.org/zh/](https://router.vuejs.org/zh/)
+* [https://vuex.vuejs.org/zh/](https://vuex.vuejs.org/zh/)
+* [https://ssr.vuejs.org/zh/](https://ssr.vuejs.org/zh/)
+* [https://zh.nuxtjs.org/](https://zh.nuxtjs.org/)
+
+### React
+
 * [React 用于构建用户界面的 JavaScript 库](https://zh-hans.reactjs.org/)
 * [Create React App · Set up a modern web app by running one command.](https://create-react-app.dev/)
 * [React Router: Declarative Routing for React.js](https://reacttraining.com/react-router/)
@@ -47,10 +61,7 @@
 * [Redux · A Predictable State Container for JS Apps](https://redux.js.org/)
 * [Redux 中文文档](http://cn.redux.js.org/)
 * [React Lifecycle Methods Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
-* [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/)
-* [webpack](https://webpack.js.org)
-* [Babel · The compiler for next generation JavaScript](https://babeljs.io/)
-* [ESLint - Pluggable JavaScript linter](https://eslint.org/)
+* [https://nextjs.org/](https://nextjs.org/)
 
 ### 正则表达式
 
@@ -64,6 +75,7 @@
 * [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 * [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
 * [数据结构和算法动态可视化](https://visualgo.net/zh)
+* [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 
 ### Flutter
 
@@ -94,10 +106,10 @@
 
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
-* [前端工作面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/)
 * [cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!](https://cdnjs.com/)
 * [https://unpkg.com/](https://unpkg.com/)
 * [https://codepen.io](https://codepen.io/)
 * [https://codesandbox.io](https://codesandbox.io/)
 * [https://revealjs.com/](https://revealjs.com/)
 * [https://slides.com/](https://slides.com/)
+* [前端工作面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/)
