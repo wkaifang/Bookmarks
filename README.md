@@ -9,10 +9,6 @@
 * [Visual Studio Code Keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 * [EditorConfig](https://editorconfig.org/)
 * [Emmet — the essential toolkit for web-developers](https://emmet.io/)
-* [GraphQL | A query language for your API](https://graphql.org/)
-* [HEAD - A free guide to <head> elements](https://htmlhead.dev/)
-* [Enable CORS](https://enable-cors.org/index.html)
-* [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
 ### Git
 
@@ -23,6 +19,7 @@
 * [猴子都能懂的 GIT 入门](https://backlog.com/git-tutorial/cn/)
 * [GitHub Git 备忘单 - GitHub Cheatsheets](https://github.github.com/training-kit/downloads/zh_CN/github-git-cheat-sheet/)
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
+* [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
 ### CSS
 
@@ -34,6 +31,7 @@
 * [Flexbox Cheatsheet](http://yoksel.github.io/flex-cheatsheet/)
 * [CSS Grid Generator | LayoutIt!](https://grid.layoutit.com/)
 * [https://www.sassmeister.com/](https://www.sassmeister.com/)
+* [HEAD - A free guide to <head> elements](https://htmlhead.dev/)
 
 ### JavaScript
 
@@ -49,13 +47,14 @@
 * [https://www.html5rocks.com/zh/tutorials/](https://www.html5rocks.com/zh/tutorials/)
 * [JavaScript Functional Programming 指南](https://jigsawye.gitbooks.io/mostly-adequate-guide/content/)
 * [Lodash](https://lodash.com/)
-* [Moment.js | Home](https://momentjs.com/)
+* [Moment.js](https://momentjs.com/)
 * [https://mathjs.org](https://mathjs.org/)
 * [https://socket.io](https://socket.io/)
 * [webpack](https://webpack.js.org)
 * [Babel · The compiler for next generation JavaScript](https://babeljs.io/)
 * [ESLint - Pluggable JavaScript linter](https://eslint.org/)
 * [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/)
+* [GraphQL | A query language for your API](https://graphql.org/)
 * [前端性能指南](https://browserdiet.com/zh/)
 
 ### Vue
@@ -141,6 +140,7 @@
 * [https://browsersync.io/](https://browsersync.io/)
 * [http://todomvc.com/](http://todomvc.com/)
 * [Json Server](https://github.com/typicode/json-server)
+* [Enable CORS](https://enable-cors.org/index.html)
 * [cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!](https://cdnjs.com/)
 * [https://unpkg.com/](https://unpkg.com/)
 * [https://codepen.io](https://codepen.io/)
