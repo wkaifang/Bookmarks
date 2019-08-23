@@ -27,6 +27,8 @@
 * [Hover.css - A collection of CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
 * [Animate.css](https://daneden.github.io/animate.css/)
 * [Font Awesome](https://fontawesome.com/)
+* [CSS媒体查询 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Media_queries)
+* [CSS 布局 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout)
 * [学习 CSS 布局](http://zh.learnlayout.com/)
 * [Flexbox Cheatsheet](http://yoksel.github.io/flex-cheatsheet/)
 * [CSS Grid Generator | LayoutIt!](https://grid.layoutit.com/)
@@ -36,6 +38,9 @@
 ### JavaScript
 
 * [Web 开发技术 | MDN](https://developer.mozilla.org/zh-CN/docs/Web)
+* [JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+* [Web API | MDN](https://developer.mozilla.org/zh-CN/docs/Web/Reference/API)
+* [HTTP | MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
 * [DevDocs API Documentation](https://devdocs.io/)
 * [https://zh.javascript.info/](https://zh.javascript.info/)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
