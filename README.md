@@ -61,6 +61,8 @@
 * [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/)
 * [GraphQL | A query language for your API](https://graphql.org/)
 * [前端性能指南](https://browserdiet.com/zh/)
+* [Yarn · 快速、可靠、安全的依赖管理](https://yarnpkg.com/zh-Hans/)
+* [Jest · 令人愉快的 JavaScript 测试](https://jestjs.io/zh-Hans/)
 
 ### Vue
 
