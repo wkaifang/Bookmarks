@@ -116,12 +116,13 @@
 ### Node
 
 * [Node.js](https://nodejs.org/zh-cn/)
+* [nvm](https://github.com/nvm-sh/nvm)
+* [n](https://github.com/tj/n)
 * [npm | build amazing things](https://www.npmjs.com/)
 * [Yarn · 快速、可靠、安全的依赖管理](https://yarnpkg.com/zh-Hans/)
 * [GraphQL | A query language for your API](https://graphql.org/)
 * [JSON Web Tokens - jwt.io](https://jwt.io/)
-* [nvm](https://github.com/nvm-sh/nvm)
-* [n](https://github.com/tj/n)
+* [PM2 - Advanced Node.js process manager](http://pm2.keymetrics.io/)
 
 ### Python
 
