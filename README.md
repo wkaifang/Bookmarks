@@ -123,6 +123,7 @@
 * [GraphQL | A query language for your API](https://graphql.org/)
 * [JSON Web Tokens - jwt.io](https://jwt.io/)
 * [PM2 - Advanced Node.js process manager](http://pm2.keymetrics.io/)
+* [nodemon - reload, automatically](https://nodemon.io)
 
 ### Python
 
@@ -150,6 +151,8 @@
 * [https://browsersync.io/](https://browsersync.io/)
 * [http://todomvc.com/](http://todomvc.com/)
 * [Json Server](https://github.com/typicode/json-server)
+* [Swagger | The Best APIs are Built with Swagger Tools](https://swagger.io/)
+* [Postman | API Development Environment](https://www.getpostman.com/)
 * [Enable CORS](https://enable-cors.org/index.html)
 * [Viewer.js](https://fengyuanchen.github.io/viewerjs/)
 * [cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!](https://cdnjs.com/)
