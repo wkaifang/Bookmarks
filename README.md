@@ -133,6 +133,7 @@
 * [Django REST framework](https://www.django-rest-framework.org/)
 * [Flask | The Pallets Projects](https://palletsprojects.com/p/flask/)
 * [Simple Python Version Management](https://github.com/pyenv/pyenv)
+* [Pipenv: Python Development Workflow for Humans](https://github.com/pypa/pipenv)
 * [https://awesome-python.com/](https://awesome-python.com/)
 
 ### Go
