@@ -5,6 +5,7 @@
 * [macOS 缺失的软件包的管理器 — Homebrew](https://brew.sh/index_zh-cn.html)
 * [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)
 * [Oh My Zsh - a delightful & open source framework for Zsh](https://ohmyz.sh/)
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 * [Documentation for Visual Studio Code](https://code.visualstudio.com/docs)
 * [Visual Studio Code Keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 * [EditorConfig](https://editorconfig.org/)
@@ -46,8 +47,8 @@
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 * [ES6 Features](https://codetower.github.io/es6-features/)
-* [http://youmightnotneedjquery.com/](http://youmightnotneedjquery.com/)
-* [http://youmightnotneedjs.com/](http://youmightnotneedjs.com/)
+* [YOU MIGHT NOT NEED JQUERY](http://youmightnotneedjquery.com/)
+* [YOU MIGHT NOT NEED JAVASCRIPT](http://youmightnotneedjs.com/)
 * [https://www.30secondsofcode.org/](https://www.30secondsofcode.org/)
 * [https://www.html5rocks.com/zh/tutorials/](https://www.html5rocks.com/zh/tutorials/)
 * [JavaScript Functional Programming 指南](https://jigsawye.gitbooks.io/mostly-adequate-guide/content/)
@@ -104,7 +105,7 @@
 * [SVG API | MDN](https://developer.mozilla.org/zh-CN/docs/Web/SVG)
 * [Canvas API | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
 * [WebGL API | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API)
-* [https://d3js.org/](https://d3js.org/)
+* [D3.js - Data-Driven Documents](https://d3js.org/)
 * [three.js – Javascript 3D library](https://threejs.org/)
 
 ### Flutter
