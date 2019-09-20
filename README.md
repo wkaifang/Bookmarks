@@ -147,6 +147,7 @@
 ### 工具
 
 * [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+* [Web framework rankings | HotFrameworks](http://hotframeworks.com/)
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
 * [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
