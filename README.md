@@ -6,6 +6,7 @@
 * [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)
 * [Oh My Zsh - a delightful & open source framework for Zsh](https://ohmyz.sh/)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+* [Vim Cheat Sheet](https://vim.rtorr.com/lang/zh_cn)
 * [Documentation for Visual Studio Code](https://code.visualstudio.com/docs)
 * [Visual Studio Code Keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 * [EditorConfig](https://editorconfig.org/)
