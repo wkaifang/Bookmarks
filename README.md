@@ -12,6 +12,14 @@
 * [EditorConfig](https://editorconfig.org/)
 * [Emmet — the essential toolkit for web-developers](https://emmet.io/)
 
+### 快速访问
+
+* [Node.js](https://nodejs.org/zh-cn/)
+* [React](https://zh-hans.reactjs.org/)
+* [Vue.js](https://v3.cn.vuejs.org/)
+* [webpack](https://webpack.docschina.org/)
+* [TypeScript](https://www.typescriptlang.org/zh/)
+
 ### Git
 
 * [Git](https://git-scm.com/)
